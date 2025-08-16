@@ -24,11 +24,11 @@
       "name": "天涯资源"
     },
     "ffzy": {
-      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8",
       "name": "非凡影视",
     },
     "lzzy": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
       "name": "量子资源"
     },
     "iqiyi": {
@@ -72,6 +72,14 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
+    "huangcang": {
+      "api": "https://hsckzy.vip"
+      "name": "黄色仓库"
+    },
+    "ckzy": {
+      "api": "https://www.ckzy1.com"
+      "name": "CK资源"
+    }, 
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
